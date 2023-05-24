@@ -1,11 +1,16 @@
 _repo: Drugs-that-enslave-b-The-opium-morphine-chloral-and-hashisch-habits_70723
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70723-h/images/cover.jpg
 creator:
   author:
     agent_name: Kane, H. H.
     gutenberg_agent_id: '55886'
     url: http://www.gutenberg.org/2009/agents/55886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70723#Drugs-that-enslave-b-The-opium-morphine-chloral-and-hashisch-habits
 gutenberg_issued: '2023-05-08'
 identifiers:
   gutenberg: '70723'
